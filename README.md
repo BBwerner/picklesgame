@@ -1,2 +1,0 @@
-# picklesgame
-Begin app
